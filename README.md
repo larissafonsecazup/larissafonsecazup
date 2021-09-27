@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center><img src=https://img.shields.io/static/v1?label=security_champs&message=BichaoEhChamp&color=orange alt=https://img.shields.io/static/v1?label=security_champs&message=BichaoEhChamp&color=orange /></p>
+<p align=center><img src=https://img.shields.io/static/v1?label=security_champs&message=BichaoEhChamp&color=orange alt=https://img.shields.io/static/v1?label=security_champs&message=BichaoEhChamp&color=orange /></p>
